@@ -1,6 +1,7 @@
 # NeuroanatomyVR
-3D Neuroanatomy based on histological sections of the Sao Paulo-Wurzburg Atlas of the Human brain. 
-This is still a pre-release version, work still in progress. For now, there are 3 versions available:
+3D Neuroanatomy based on histological sections of the São Paulo-Würzburg Atlas of the Human brain (SPWU atlas). 
+
+This is still a pre-release version, work in progress. For now, there are 3 versions available:
 
 1- Desktop for Mac, Linux and PC
 2-Mobile version for Android
